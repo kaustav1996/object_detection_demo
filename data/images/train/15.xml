@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>15.jpg</filename>
-	<path>/home/kaustav1996/object_detection_demo/data/images/train/15.jpg</path>
+	<path>/home/kaustav1996/git/object_detection_demo/data/images/train/15.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>numberplate</name>
+		<name>wipro</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>249</xmin>
-			<ymin>281</ymin>
-			<xmax>345</xmax>
-			<ymax>304</ymax>
+			<xmin>311</xmin>
+			<ymin>59</ymin>
+			<xmax>400</xmax>
+			<ymax>185</ymax>
 		</bndbox>
 	</object>
 </annotation>
