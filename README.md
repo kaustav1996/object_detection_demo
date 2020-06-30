@@ -47,7 +47,7 @@ Requirements:
 - `frozen_inference_graph.pb` Frozen TensorFlow object detection model downloaded from Colab after training. 
 - `label_map.pbtxt` File used to map correct name for predicted class index downloaded from Colab after training.
 
-You can also opt to download my [copy](https://github.com/kaustav1996/object_detection_demo/releases/download/V0.1/checkpoint.zip) of those files from the GitHub Release page.
+You can also opt to download my [copy](https://github.com/kaustav1996/object_detection_demo/archive/v0.1.zip) of those files from the GitHub Release page.
 
 
 Run the following Jupyter notebook locally.
